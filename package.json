@@ -5,14 +5,14 @@
   "author": "Postman Inc.",
   "license": "MIT",
   "main": "index.js",
-  "homepage": "https://github.com/postmanlabs/postman-url-encoder#readme",
+  "homepage": "https://github.com/meslubi2021/postman-url-encoder.git",
   "bugs": {
-    "url": "https://github.com/postmanlabs/postman-url-encoder/issues",
+    "url": "https://github.com/meslubi2021/postman-url-encoder.git",
     "email": "help@postman.com"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/postmanlabs/postman-url-encoder.git"
+    "url": "https://github.com/meslubi2021/postman-url-encoder.git"
   },
   "keywords": [
     "postman",
