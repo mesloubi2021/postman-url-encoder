@@ -43,7 +43,7 @@
     "chai": "^4.3.4",
     "chalk": "^5.3.0",
     "colors": "^1.4.0",
-    "editorconfig": "^0.15.3",
+    "editorconfig": "^2.0.0",
     "eslint": "^7.32.0",
     "eslint-plugin-jsdoc": "^50.4.3",
     "eslint-plugin-lodash": "^7.3.0",
